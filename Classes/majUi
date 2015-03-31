@@ -1,0 +1,4 @@
+#!/bin/sh
+
+uic LoginDialog.ui > ui_LoginDialog.h
+uic MainView.ui > ui_MainView.h
